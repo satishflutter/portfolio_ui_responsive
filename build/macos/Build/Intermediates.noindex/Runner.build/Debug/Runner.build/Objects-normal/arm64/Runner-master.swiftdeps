@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "88cac740b70a5e355475785bf4e162a2b67634b7ba72f981682fdc1e06d42173"
+build_start_time: [1734614390, 963941000]
+build_end_time: [1734614392, 850012000]
+inputs:
+  "/Users/palak.modi/Desktop/Satish.Vishwakarma/Flutter/protfolio_ui_responsive/macos/Flutter/GeneratedPluginRegistrant.swift": [1734614380, 675774066]
+  "/Users/palak.modi/Desktop/Satish.Vishwakarma/Flutter/protfolio_ui_responsive/macos/Runner/AppDelegate.swift": [1734519394, 57643706]
+  "/Users/palak.modi/Desktop/Satish.Vishwakarma/Flutter/protfolio_ui_responsive/macos/Runner/MainFlutterWindow.swift": [1731546475, 0]
